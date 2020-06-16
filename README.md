@@ -12,7 +12,9 @@ In this project, we will use location data and clustering techniques to determin
 ## <b> 2). Data Sources: Downloading & Prepping Data </b>
 The data sources used in this project consist of:
 1. Wikipedia: List of Chicago neighborhood data
-https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago
+
+   https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago
+
 2. Foursquare API: Retrieved different venues in the different neighborhoods of Chicago
 
 ## <b> 3). Methodology </b>
