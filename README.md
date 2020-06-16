@@ -15,7 +15,7 @@ The data sources used in this project consist of:
 
    https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago
 
-This data source contains a list of the different neighborhoods in Chicago which will be utilized to cluster into larger sections of the city.
+   This data source contains a list of the different neighborhoods in Chicago which will be utilized to cluster into larger sections of    the city to help populate different venues in the city. This will help cluster and determine the neighborhood with the most              activities and convenience in the city.
 
 2. Foursquare API: Retrieved different venues in the different neighborhoods of Chicago
 Foursquare API data will be used to determine the different venues located around the city. The different venues that will be obtained from location data will include restaurants,and entertainment (theaters, bars, gyms etc.).
