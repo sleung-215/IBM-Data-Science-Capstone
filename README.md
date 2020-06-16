@@ -1,21 +1,35 @@
 # IBM-Data-Science-Capstone
-<i> This repository introduces the capstone project for IBM's Data Science Professional Certification. It will introduce a problem and apply location data and analysis methods to present a business solution. <i/>
+<i> This repository introduces the capstone project for IBM's Data Science Professional Certification. It will introduce a problem and apply location data and analysis methods to present a business solution. </i>
 
 
-## 1). Introduction to Business Problem ##
-Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+## <b> 1). Introduction to Business Problem </b>
+Chicago is one of the most populous and growing US cities in the country. It is the home to plenty of arts, entertainment, sports, education, research and much more. No wonder Bean-town is attracting plenty of young professionals moving into the busy city each year. Chicago is a relatively young city with the person's average age being 34.9 years old and 63% of the population being single out of 2.7 million residents and growing.
 
-This submission will eventually become your Introduction/Business Problem section in your final report. So I recommend that you push the report (having your Introduction/Business Problem section only for now) to your Github repository and submit a link to it.
+With a growing city full of young people moving to Chicago looking for entertainment and adjusting to life in a new city, there has been demand on creating programs to research and provide information to those new to the city, create guides for tourists and keep the city's economy booming.
 
-## 2). Data Sources: Downloading & Prepping Data
-Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+In this project, we will use location data and clustering techniques to determine which areas of Chicago has the most activity and human traffic. This can help a new city transplant select which is an accessible and quiet neighborhood to potentially select their new home.
 
-This submission will eventually become your Data section in your final report. So I recommend that you push the report (having your Data section) to your Github repository and submit a link to it.
+## <b> 2). Data Sources: Downloading & Prepping Data </b>
+The data sources used in this project consist of:
+1. Wikipedia: List of Chicago neighborhood data
+https://en.wikipedia.org/wiki/List_of_neighborhoods_in_Chicago
+2. Foursquare API: Retrieved different venues in the different neighborhoods of Chicago
 
-## 3). Methodology
+## <b> 3). Methodology </b>
 
-## 4). Analysis & Results
+<ul>
+<li>Build a dataframe of neighborhoods in Chicago, IL by web scraping data from a Wikipedia page.</li>
+<li>Get the geographical coordinates of the different neighborhoods.</li>
+<li>Obtain the venue data for the neighborhoods from Foursquare API.</li>
+<li>Explore and cluster the neighborhoods.</i>
+<li>Select the best cluster that is the most convenient, but quiet location for living.</li>
+</ul>
 
-## 5). Discussion & Recommendations
+## <b> 4). Analysis & Results </b>
 
-## 6). Conclusion
+## <b> 5). Discussion & Recommendations </b>
+
+## <b> 6). Conclusion </b>
+
+
+<i>Census data reference: https://censusreporter.org/profiles/16000US1714000-chicago-il/ </i>
