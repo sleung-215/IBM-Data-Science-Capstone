@@ -21,14 +21,24 @@ The data sources used in this project consist of:
 Foursquare API data will be used to determine the different venues located around the city. The different venues that will be obtained from location data will include restaurants,and entertainment (theaters, bars, gyms etc.).
 Combining the neighborhood clusters and populating the different types of venues within each neighborhood will help determine which part of the city is will contain the necessities for daily life and entertainment with low human traffic within the area. 
 
+3. Python packages used:
+   <ul>
+   <li>Pandas</li>
+   <li>Folium Maps</li>
+   <li>BeautifulSoup</li>
+   <li>Geocoder</li>
+   <li>Sklearn</li>
+    </ul>
+
 ## <b> 3). Methodology </b>
 
 <ul>
 <li>Build a dataframe of neighborhoods in Chicago, IL by web scraping data from a Wikipedia page.</li>
 <li>Get the geographical coordinates of the different neighborhoods.</li>
-<li>Obtain the venue data for the neighborhoods from Foursquare API.</li>
-<li>Explore and cluster the neighborhoods.</i>
-<li>Select the best cluster that is the most convenient, but quiet location for living.</li>
+<li>Explore and cluster the neighborhoods to determine which neighborhoods are within city center.</li>
+<li>Obtain the venue data for the cluster that contain city center neighborhoods from Foursquare API.</i>
+<li>Determine the top 10 venues within each neighborhood and perform k-means clustering for each.</li>
+<li>Select the best neighborhood in each cluster that contains the most venues.</li>
 </ul>
 
 
