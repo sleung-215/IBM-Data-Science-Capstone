@@ -31,11 +31,5 @@ Combining the neighborhood clusters and populating the different types of venues
 <li>Select the best cluster that is the most convenient, but quiet location for living.</li>
 </ul>
 
-## <b> 4). Analysis & Results </b>
-
-## <b> 5). Discussion & Recommendations </b>
-
-## <b> 6). Conclusion </b>
-
 
 <i>Census data reference: https://censusreporter.org/profiles/16000US1714000-chicago-il/ </i>
