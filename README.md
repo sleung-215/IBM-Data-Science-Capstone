@@ -3,6 +3,13 @@
 
 Folium maps are not displaying properly in Github. Please see pdf presenation.</i>
 
+The following files for the Capstone are:
+<ul>
+   <li>Presentation (PPT): IBM Capstone-Chicago-Presentation.pdf</li>
+   <li>Capstone Report (Document): IBM Capstone_Battle of the Neighborhoods-Chicago.pdf</li>
+   <li>Jupyter Notebook (Code): IBM Capstone-Chicago.ipynb</li>
+   </ul>
+
 
 ## <b> 1). Introduction to Business Problem </b>
 Chicago is one of the most populous and growing US cities in the country. It is the home to plenty of arts, entertainment, sports, education, research and much more. No wonder Bean-town is attracting plenty of young professionals moving into the busy city each year. Chicago is a relatively young city with the person's average age being 34.9 years old and 63% of the population being single out of 2.7 million residents and growing.
