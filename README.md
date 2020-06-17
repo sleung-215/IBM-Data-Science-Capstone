@@ -1,5 +1,7 @@
 # IBM-Data-Science-Capstone
-<i> This repository introduces the capstone project for IBM's Data Science Professional Certification. It will introduce a problem and apply location data and analysis methods to present a business solution. </i>
+<i> This repository introduces the capstone project for IBM's Data Science Professional Certification. It will introduce a problem and apply location data and analysis methods to present a business solution. 
+
+Folium maps are not displaying properly in Github. Please see pdf presenation.</i>
 
 
 ## <b> 1). Introduction to Business Problem </b>
